@@ -8,7 +8,11 @@ Các chức năng của hệ thống
 - trong chat có thể theo dõi thông tin cá nhân của người gửi
 - giáo viên có quản lý kênh, phòng ban : thêm sửa xoá
 - có admin quản lý cho người quản trị
-- 
+
+# Cài đặt: 
+- B1: Tải xampp về https://www.apachefriends.org/download.html
+- B2: Vào thư mục xampp/htdocs và xóa toàn bộ file trong htdocs rồi thay copy projects vào.
+- B3: Mở xampp và mở localhost.
 # Hình ảnh giao diện
 Giao diện trang chủ : 
 
